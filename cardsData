@@ -19,5 +19,19 @@
     "rating": 91,
     "thumbnail": "https://1moazan.github.io/testdata/dummy.png",
     "addressableModel": "MbappeModel"
+  },
+  {
+    "id": "player004",
+    "name": "Ronaldinho",
+    "rating": 96,
+    "thumbnail": "https://1moazan.github.io/testdata/dummy.png",
+    "addressableModel": "MbappeModel"
+  },
+  {
+    "id": "player005",
+    "name": "Murphy",
+    "rating": 99,
+    "thumbnail": "https://1moazan.github.io/testdata/dummy.png",
+    "addressableModel": "MbappeModel"
   }
 ]
