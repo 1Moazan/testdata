@@ -1,0 +1,23 @@
+[
+  {
+    "id": "player001",
+    "name": "Lionel Messi",
+    "rating": 94,
+    "thumbnail": "https://example.com/messi.png",
+    "addressableModel": "MessiModel"
+  },
+  {
+    "id": "player002",
+    "name": "Cristiano Ronaldo",
+    "rating": 92,
+    "thumbnail": "https://example.com/ronaldo.png",
+    "addressableModel": "RonaldoModel"
+  },
+  {
+    "id": "player003",
+    "name": "Kylian Mbappé",
+    "rating": 91,
+    "thumbnail": "https://example.com/mbappe.png",
+    "addressableModel": "MbappeModel"
+  }
+]
